@@ -3568,7 +3568,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../widgets/mainwindow.cpp" line="501"/>
         <source>Scanned ADIF log, %1 worked before records created</source>
-        <translation>扫描 ADIF 日志, %1 在创建记录之前工作</translation>
+        <translation>扫描 ADIF 日志, %1 在创建曾经通联记录</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.cpp" line="619"/>
@@ -4802,12 +4802,12 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="187"/>
         <source>Show if decoded stations are new DXCC entities or worked before.</source>
-        <translation>显示解码的电台是新的 DXCC 实体还是以前工作过。</translation>
+        <translation>显示解码的电台是新的 DXCC 实体还是以前曾经通联.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="190"/>
         <source>Show &amp;DXCC, grid, and worked-before status</source>
-        <translation>显示 &amp;DXCC, 网格和工作前状态</translation>
+        <translation>显示 &amp;DXCC, 网格和曾经通联状态</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="200"/>
@@ -5223,7 +5223,7 @@ a few, particularly some Kenwood rigs, require it).</source>
     <message>
         <location filename="../Configuration.ui" line="954"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the RS-232 DTR control line to toggle your radio&apos;s PTT, requires hardware to inteface the line.&lt;/p&gt;&lt;p&gt;Some commercial interface units also use this method.&lt;/p&gt;&lt;p&gt;The DTR control line of the CAT serial port may be used for this or a DTR control line on a different serial port may be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用 RS-232 DTR 控制线路切换收音机的 PTT，需要硬件来整数线路.&lt;/p&gt;&lt;p&gt;某些商业接口单元也使用此方法 .&lt;/p&gt;&lt;p&gt;CAT 串行端口的 DTR 控制线路可用于此或可能用于其他串行端口上的 DTR 控制线路.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="957"/>
@@ -5693,12 +5693,12 @@ for assessing propagation and system performance.</source>
     <message>
         <location filename="../Configuration.ui" line="1823"/>
         <source>UDP Server</source>
-        <translation></translation>
+        <translation>UDP服务器</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1834"/>
         <source>UDP Server:</source>
-        <translation>UDP服务器地址:</translation>
+        <translation>UDP服务器:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1850"/>
@@ -5885,7 +5885,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="2228"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Click to scan the wsjtx_log.adi ADIF file again for worked before information&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;单击以再次扫描 wsjtx_log.adi ADIF 文件, 以便信息之前工作&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;单击以再次扫描 wsjtx_log.adi ADIF 文件, 以便曾经通联信息&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="932"/>
@@ -5915,7 +5915,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="2304"/>
         <source>Check to for grid highlighting to only apply to unworked grid fields</source>
-        <translation>检查到网格突出显示仅应用于未工作的网格字段</translation>
+        <translation>检查到网格突出显示仅应用于未通联的网格字段</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2307"/>
