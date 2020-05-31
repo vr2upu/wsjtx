@@ -3568,7 +3568,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../widgets/mainwindow.cpp" line="501"/>
         <source>Scanned ADIF log, %1 worked before records created</source>
-        <translation>掃描 ADIF 紀錄紀錄, %1 建立紀錄之前工作</translation>
+        <translation>掃描 ADIF 紀錄紀錄, %1 建立曾經通聯紀錄</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.cpp" line="619"/>
@@ -4802,12 +4802,12 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="187"/>
         <source>Show if decoded stations are new DXCC entities or worked before.</source>
-        <translation>顯示解碼的電臺是新的 DXCC 實體還是以前工作過.</translation>
+        <translation>顯示解碼的電臺是新的 DXCC 實體還是以前曾經通聯.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="190"/>
         <source>Show &amp;DXCC, grid, and worked-before status</source>
-        <translation>顯示 &amp;DXCC、網格與工作前狀態</translation>
+        <translation>顯示 &amp;DXCC、網格與曾經通聯狀態</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="200"/>
@@ -5223,7 +5223,7 @@ a few, particularly some Kenwood rigs, require it).</source>
     <message>
         <location filename="../Configuration.ui" line="954"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the RS-232 DTR control line to toggle your radio&apos;s PTT, requires hardware to inteface the line.&lt;/p&gt;&lt;p&gt;Some commercial interface units also use this method.&lt;/p&gt;&lt;p&gt;The DTR control line of the CAT serial port may be used for this or a DTR control line on a different serial port may be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用 RS-232 DTR 控制線路切換收音機的 PTT,需要硬體來整數線路.&lt;/p&gt;&lt;p&gt;某些商業介面單元也使用此方法.&lt;/p&gt;&lt;p&gt;CAT 串列埠的 DTR 控制線路可用於此或可能用於其他串行埠上的 DTR 控制線路.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="957"/>
@@ -5693,12 +5693,12 @@ for assessing propagation and system performance.</source>
     <message>
         <location filename="../Configuration.ui" line="1823"/>
         <source>UDP Server</source>
-        <translation></translation>
+        <translation>UDP服務器</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1834"/>
         <source>UDP Server:</source>
-        <translation>主要UDP服務器地址:</translation>
+        <translation>UDP服務器:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1850"/>
@@ -5803,7 +5803,7 @@ for assessing propagation and system performance.</source>
     <message>
         <location filename="../Configuration.ui" line="2009"/>
         <source>Slope:</source>
-        <translation></translation>
+        <translation>傾斜率:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2022"/>
@@ -5823,7 +5823,7 @@ for assessing propagation and system performance.</source>
     <message>
         <location filename="../Configuration.ui" line="2098"/>
         <source>Working Frequencies</source>
-        <translation></translation>
+        <translation>工作頻率</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2113"/>
@@ -5885,7 +5885,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="2228"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Click to scan the wsjtx_log.adi ADIF file again for worked before information&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;按下以再次掃描 wsjtx_log.adi ADIF 檔, 以便資訊之前工作&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;按下以再次掃描 wsjtx_log.adi ADIF 檔, 以便曾經通聯資訊&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="932"/>
@@ -5915,7 +5915,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="2304"/>
         <source>Check to for grid highlighting to only apply to unworked grid fields</source>
-        <translation>檢查到格線突出顯示僅套用於未工作的網格欄位</translation>
+        <translation>檢查到格線突出顯示僅套用於未通聯的網格欄位</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2307"/>
