@@ -2558,14 +2558,14 @@ When not checked you can view the calibration results.</source>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1639"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Send this message in next Tx interval&lt;/p&gt;&lt;p&gt;Double click to toggle the use of the Tx1 message to start a QSO with a station (not allowed for type 1 compound call holders)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在下一個發射間隔中傳送此訊息&lt;/p&gt;&lt;p&gt;按兩下以切換使用 Tx1 訊息以啟動電臺的通聯 (不允許 1 型複合呼叫持有者)&lt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在下一個發射間隔中傳送此訊息&lt;/p&gt;&lt;p&gt;按兩下以切換使用 發射 1 訊息以啟動電臺的通聯 (不允許 1 型複合呼叫持有者)&lt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1642"/>
         <source>Send this message in next Tx interval
 Double click to toggle the use of the Tx1 message to start a QSO with a station (not allowed for type 1 compound call holders)</source>
         <translation>在下一個發射間隔中傳送此訊息
-按兩下以切換使用 Tx1 訊息以啟動電臺的通聯 (不允許 1 型複合呼叫持有者)</translation>
+按兩下以切換使用 發射 1 訊息以啟動電臺的通聯 (不允許 1 型複合呼叫持有者)</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1652"/>
@@ -2583,7 +2583,7 @@ Double click to toggle the use of the Tx1 message to start a QSO with a station 
     <message>
         <location filename="../widgets/mainwindow.ui" line="1665"/>
         <source>Tx &amp;2</source>
-        <translation>發射&amp;2</translation>
+        <translation>發射 &amp;2</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1668"/>
@@ -2593,19 +2593,19 @@ Double click to toggle the use of the Tx1 message to start a QSO with a station 
     <message>
         <location filename="../widgets/mainwindow.ui" line="1678"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Switch to this Tx message NOW&lt;/p&gt;&lt;p&gt;Double click to toggle the use of the Tx1 message to start a QSO with a station (not allowed for type 1 compound call holders)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;立即切換到此發射信息&lt;/p&gt;&lt;p&gt;按兩下以切換使用 發射1 訊息以啟動電臺的通聯 (不允許 1 型複合呼叫持有者)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;立即切換到此發射信息&lt;/p&gt;&lt;p&gt;按兩下以切換使用 發射 1 訊息以啟動電臺的通聯 (不允許 1 型複合呼叫持有者)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1681"/>
         <source>Switch to this Tx message NOW
 Double click to toggle the use of the Tx1 message to start a QSO with a station (not allowed for type 1 compound call holders)</source>
         <translation>立即切換到此發射信息
-按兩下以切換使用 發射1 訊息以啟動電臺的通聯 (不允許 1 型複合呼叫持有者)</translation>
+按兩下以切換使用 發射 1 訊息以啟動電臺的通聯 (不允許 1 型複合呼叫持有者)</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1691"/>
         <source>Tx &amp;1</source>
-        <translation>發射&amp;1</translation>
+        <translation>發射 &amp;1</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1694"/>
@@ -2642,7 +2642,7 @@ Double-click to reset to the standard 73 message</source>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1765"/>
         <source>Tx &amp;3</source>
-        <translation>發射&amp;3</translation>
+        <translation>發射 &amp;3</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1768"/>
@@ -2671,7 +2671,7 @@ RR73 信息僅在您有理由相信不需要重複信息時才應使用</transla
     <message>
         <location filename="../widgets/mainwindow.ui" line="1796"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Switch to this Tx message NOW&lt;/p&gt;&lt;p&gt;Double-click to toggle between RRR and RR73 messages in Tx4 (not allowed for type2 compound call holders)&lt;/p&gt;&lt;p&gt;RR73 messages should only be used when you are reasonably confident that no message repetitions will be required&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;立即切換到此發射信息&lt;/p&gt;&lt;p&gt;按兩下可在 發射4 中的 RRR 和 RR73 信息之間切換 (不允許類型 2 複合呼叫持有者)&lt;/p&gt;&lt;p&gt;RR73 信息僅在您有理由相信不需要重複信息時才應使用&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;立即切換到此發射信息&lt;/p&gt;&lt;p&gt;按兩下可在 發射 4 中的 RRR 和 RR73 信息之間切換 (不允許類型 2 複合呼叫持有者)&lt;/p&gt;&lt;p&gt;RR73 信息僅在您有理由相信不需要重複信息時才應使用&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1799"/>
@@ -2679,13 +2679,13 @@ RR73 信息僅在您有理由相信不需要重複信息時才應使用</transla
 Double-click to toggle between RRR and RR73 messages in Tx4 (not allowed for type2 compound call holders)
 RR73 messages should only be used when you are reasonably confident that no message repetitions will be required</source>
         <translation>立即切換到此發射信息
-按兩下可在 發射4 中的 RRR 和 RR73 信息之間切換 (不允許類型 2 複合呼叫持有者)
+按兩下可在 發射 4 中的 RRR 和 RR73 信息之間切換 (不允許類型 2 複合呼叫持有者)
 RR73 信息僅在您有理由相信不需要重複信息時才應使用</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1807"/>
         <source>Tx &amp;4</source>
-        <translation>發射&amp;4</translation>
+        <translation>發射 &amp;4</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1810"/>
@@ -2707,7 +2707,7 @@ Double-click to reset to the standard 73 message</source>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1827"/>
         <source>Tx &amp;5</source>
-        <translation>發射&amp;5</translation>
+        <translation>發射 &amp;5</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1830"/>
@@ -2732,7 +2732,7 @@ Double-click to reset to the standard 73 message</source>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1869"/>
         <source>Tx &amp;6</source>
-        <translation>發射&amp;6</translation>
+        <translation>發射 &amp;6</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="1872"/>
@@ -2983,7 +2983,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../widgets/mainwindow.ui" line="2426"/>
         <source>S/N (dB)</source>
-        <translation></translation>
+        <translation>信噪比(分貝)</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="2431"/>
