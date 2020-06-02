@@ -3168,7 +3168,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../widgets/mainwindow.ui" line="2965"/>
         <source>None</source>
-        <translation></translation>
+        <translation>不儲存</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="2973"/>
@@ -5123,7 +5123,7 @@ quiet period when decoding is done.</source>
     <message>
         <location filename="../Configuration.ui" line="759"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Flow control protocol used between this computer and your radio&apos;s CAT interface (usually &amp;quot;None&amp;quot; but some require &amp;quot;Hardware&amp;quot;).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;電腦和無線電設備 CAT 接口 (通常是 &quot;None&quot;) 之間使用的流量控制協議 (通常是 &quot;無&quot;,但有些要求硬件).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;電腦和無線電設備 CAT 接口 之間使用的流量控制協議 (通常是 &quot;None&quot;,但有些要求&quot;硬件&quot;).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="762"/>
@@ -5261,7 +5261,7 @@ PTT的其它硬件接口.</translation>
 (not recommended but use if the wrong mode
 or bandwidth is selected).</source>
         <translation>不允許程序設置無線電設備模式
-(不建議使用但如果選擇了出錯誤的模式
+(不建議使用但如果選擇錯誤的模式
 或帶寬).</translation>
     </message>
     <message>
